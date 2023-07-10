@@ -1,5 +1,2 @@
 Archivo edicion 01
-Archivo edicion 02
-Archivo edicion 03
-
 Hola Mundo de archivo.txt
