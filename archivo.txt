@@ -1,2 +1,1 @@
-Hola Mundo de archivo.txt
-HEAD
+Hola Mundo desde archivo.txt
