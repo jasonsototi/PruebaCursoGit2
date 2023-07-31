@@ -1,1 +1,2 @@
 Asegurando un commit en remoto.
+Vamos a foprzar el PUSH desde repo LOCAL.
